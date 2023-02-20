@@ -1,0 +1,15 @@
+D:\C#\Ur4\bin\Debug\net7.0\Ur4.exe
+D:\C#\Ur4\bin\Debug\net7.0\Ur4.deps.json
+D:\C#\Ur4\bin\Debug\net7.0\Ur4.runtimeconfig.json
+D:\C#\Ur4\bin\Debug\net7.0\Ur4.dll
+D:\C#\Ur4\bin\Debug\net7.0\Ur4.pdb
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.csproj.AssemblyReference.cache
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.AssemblyInfoInputs.cache
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.AssemblyInfo.cs
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.csproj.CoreCompileInputs.cache
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.dll
+D:\C#\Ur4\obj\Debug\net7.0\refint\Ur4.dll
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.pdb
+D:\C#\Ur4\obj\Debug\net7.0\Ur4.genruntimeconfig.cache
+D:\C#\Ur4\obj\Debug\net7.0\ref\Ur4.dll

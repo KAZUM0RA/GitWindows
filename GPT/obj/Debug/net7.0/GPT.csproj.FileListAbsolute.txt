@@ -1,0 +1,15 @@
+D:\C#\GPT\bin\Debug\net7.0\GPT.exe
+D:\C#\GPT\bin\Debug\net7.0\GPT.deps.json
+D:\C#\GPT\bin\Debug\net7.0\GPT.runtimeconfig.json
+D:\C#\GPT\bin\Debug\net7.0\GPT.dll
+D:\C#\GPT\bin\Debug\net7.0\GPT.pdb
+D:\C#\GPT\obj\Debug\net7.0\GPT.csproj.AssemblyReference.cache
+D:\C#\GPT\obj\Debug\net7.0\GPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GPT\obj\Debug\net7.0\GPT.AssemblyInfoInputs.cache
+D:\C#\GPT\obj\Debug\net7.0\GPT.AssemblyInfo.cs
+D:\C#\GPT\obj\Debug\net7.0\GPT.csproj.CoreCompileInputs.cache
+D:\C#\GPT\obj\Debug\net7.0\GPT.dll
+D:\C#\GPT\obj\Debug\net7.0\refint\GPT.dll
+D:\C#\GPT\obj\Debug\net7.0\GPT.pdb
+D:\C#\GPT\obj\Debug\net7.0\GPT.genruntimeconfig.cache
+D:\C#\GPT\obj\Debug\net7.0\ref\GPT.dll

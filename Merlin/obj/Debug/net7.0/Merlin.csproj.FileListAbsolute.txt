@@ -1,0 +1,15 @@
+D:\C#\Merlin\bin\Debug\net7.0\Merlin.exe
+D:\C#\Merlin\bin\Debug\net7.0\Merlin.deps.json
+D:\C#\Merlin\bin\Debug\net7.0\Merlin.runtimeconfig.json
+D:\C#\Merlin\bin\Debug\net7.0\Merlin.dll
+D:\C#\Merlin\bin\Debug\net7.0\Merlin.pdb
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.csproj.AssemblyReference.cache
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.AssemblyInfoInputs.cache
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.AssemblyInfo.cs
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.csproj.CoreCompileInputs.cache
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.dll
+D:\C#\Merlin\obj\Debug\net7.0\refint\Merlin.dll
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.pdb
+D:\C#\Merlin\obj\Debug\net7.0\Merlin.genruntimeconfig.cache
+D:\C#\Merlin\obj\Debug\net7.0\ref\Merlin.dll
