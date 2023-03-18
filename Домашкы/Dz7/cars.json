@@ -1,0 +1,34 @@
+[
+    {
+        "Id": "2b092904-9390-472d-b5fc-25c33e14b0d7",
+        "CreatedAt": "0001-01-01T00:00:00",
+        "markName": "Opel",
+        "model": "Astra",
+        "year": 2013,
+        "fuel": "Petrol"
+    },
+    {
+        "Id": "52cdc9dd-fe32-4dd0-9ba3-489f4292ab63",
+        "CreatedAt": "0001-01-01T00:00:00",
+        "markName": "Jeep",
+        "model": "Classic",
+        "year": 2001,
+        "fuel": "Diesel"
+    },
+    {
+        "Id": "bf0479a4-eb37-4bdc-bf4c-343acef08a2d",
+        "CreatedAt": "0001-01-01T00:00:00",
+        "markName": "Fiat",
+        "model": "Doblo",
+        "year": 2009,
+        "fuel": "Diesel"
+    },
+    {
+        "Id": "6b3ce3f1-b913-413a-9d14-bbb888a959cd",
+        "CreatedAt": "0001-01-01T00:00:00",
+        "markName": "Ford",
+        "model": "Mondeo",
+        "year": 2000,
+        "fuel": "Dizel"
+    }
+]
