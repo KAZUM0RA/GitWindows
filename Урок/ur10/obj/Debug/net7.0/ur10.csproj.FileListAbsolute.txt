@@ -1,0 +1,15 @@
+D:\C#\GItHub\GitWindows\Урок\ur10\bin\Debug\net7.0\ur10.exe
+D:\C#\GItHub\GitWindows\Урок\ur10\bin\Debug\net7.0\ur10.deps.json
+D:\C#\GItHub\GitWindows\Урок\ur10\bin\Debug\net7.0\ur10.runtimeconfig.json
+D:\C#\GItHub\GitWindows\Урок\ur10\bin\Debug\net7.0\ur10.dll
+D:\C#\GItHub\GitWindows\Урок\ur10\bin\Debug\net7.0\ur10.pdb
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.csproj.AssemblyReference.cache
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.AssemblyInfoInputs.cache
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.AssemblyInfo.cs
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.csproj.CoreCompileInputs.cache
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.dll
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\refint\ur10.dll
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.pdb
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ur10.genruntimeconfig.cache
+D:\C#\GItHub\GitWindows\Урок\ur10\obj\Debug\net7.0\ref\ur10.dll

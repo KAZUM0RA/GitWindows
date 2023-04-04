@@ -1,0 +1,15 @@
+D:\C#\DZ\Ur9\bin\Debug\net7.0\Ur9.exe
+D:\C#\DZ\Ur9\bin\Debug\net7.0\Ur9.deps.json
+D:\C#\DZ\Ur9\bin\Debug\net7.0\Ur9.runtimeconfig.json
+D:\C#\DZ\Ur9\bin\Debug\net7.0\Ur9.dll
+D:\C#\DZ\Ur9\bin\Debug\net7.0\Ur9.pdb
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.csproj.AssemblyReference.cache
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.AssemblyInfoInputs.cache
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.AssemblyInfo.cs
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.csproj.CoreCompileInputs.cache
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.dll
+D:\C#\DZ\Ur9\obj\Debug\net7.0\refint\Ur9.dll
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.pdb
+D:\C#\DZ\Ur9\obj\Debug\net7.0\Ur9.genruntimeconfig.cache
+D:\C#\DZ\Ur9\obj\Debug\net7.0\ref\Ur9.dll
